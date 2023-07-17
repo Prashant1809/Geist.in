@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 const Shop = () => {
   return (
     <div>
-      <div className=" relative shadow-md bg-blue-400 h-[100vh] w-[100vw] flex flex-col">
+      <div className=" relative shadow-md bg-pink-100 h-[100vh] w-[100vw] flex flex-col">
         <div class="relative   bg-cover bg-no-repeat bg-center  ">
          
         </div>
